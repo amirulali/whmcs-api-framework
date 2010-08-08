@@ -10,8 +10,9 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-    For support, please visit http://ultraunix.net
+    For support, please visit http://github.com/amirulali/whmcs-api-framework
 */
+
 /**
  * WHMCS API Class (php5)
  * 
