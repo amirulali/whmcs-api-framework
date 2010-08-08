@@ -3,7 +3,7 @@ WHMCS API FRAMEWORK
 
 The objective of this project is to create a Framework script in various
 programming laguages to fully utilize WHMCS API. As any framework, it 
-will minimize the amount of code and time needed to API query
+will minimize the amount of code and time needed to query the API.
 
 LICENSE
 ---------------------
